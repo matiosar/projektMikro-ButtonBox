@@ -185,3 +185,9 @@ int main(void)
 
 ![Wygląd urządzenia](keyboardLook.jpg "Wygląd urządzenia")
 
+
+## Możliwości dalszego rozwoju platformy:
+
+1. ButtonBox np. przy kierownicy wyścigowej do komputera, lub innym wolancie
+2. klawiatura macro do wykonywania powtarzalnych sekwencji klawiaturowych
+3. instrument typu Launchpad- odgrywanie melodii na prostokątnym pianinie
